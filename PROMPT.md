@@ -1,4 +1,4 @@
-Snake Game - Development Prompt
+**Snake Game** - Development Prompt
 What is the Role Here?
 You act like a senior Python developer who is  pretty comfortable with the Turtle graphics module.Your task is to create a very basic Snake Game yourself. It should be smooth and slick and even something fun to play, not some basic one that barely works. Consider clean code, structure and something you'd be proud of displaying on your GitHub.
 
