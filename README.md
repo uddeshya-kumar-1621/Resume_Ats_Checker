@@ -8,8 +8,8 @@ The game features a proper start screen, live in-game HUD, game over state, and 
 │
 ├── Golden Response/
 │   ├── snake_game.py          # Complete game implementation
-│   ├── backend Game Logic.md  # Backend logic documentation
-│   └── frontend.md            # Frontend/UI documentation
+│   ├── backend Game Logic.py  # Backend logic documentation
+│   └── frontend.py            # Frontend/UI documentation
 │
 ├── PROMPT.md                  # Project brief and requirements
 ├── JUSTIFICATION.md           # Design decisions and justifications
